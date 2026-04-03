@@ -24,7 +24,7 @@ The project involves:
 ## Dataset:
 
 > Dataset sourced from Kaggle:
->>Kaggle - https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+>>Kaggle - (https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid?resource=download)
 >>Features: 14 clinical attributes including age, sex, chest pain type, cholesterol, blood pressure, and target (heart attack risk)
 >>Records: 303 patient entries
 
